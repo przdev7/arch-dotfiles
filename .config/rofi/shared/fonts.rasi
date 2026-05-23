@@ -1,0 +1,12 @@
+/**
+ *
+ * Author : przdev7
+ * Github : @przdev7
+ * 
+ * Fonts
+ *
+ **/
+
+* {
+    font: "Source Code Pro Propo 11";
+}

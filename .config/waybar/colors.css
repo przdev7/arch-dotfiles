@@ -1,0 +1,19 @@
+@define-color onyx #0a0a0a;
+@define-color onyx-2 #141414;
+@define-color carbon-black #1f1f1f;
+@define-color graphite #292929;
+@define-color graphite-2 #333333;
+@define-color gunmetal #3d3d3d;
+@define-color iron-grey #474747;
+@define-color charcoal #525252;
+
+/* Accent colors */
+@define-color primary-purple #ff8cff;
+@define-color primary-red #ff5555;
+
+/* Additional colors */
+@define-color black #000000;
+@define-color grey #999999;
+@define-color blue-dark #333399;
+@define-color blue-grey #424153;
+@define-color purple #663399;
